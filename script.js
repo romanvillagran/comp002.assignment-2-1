@@ -33,7 +33,7 @@
 
 console.log('Hello world');
 
-result = `hello World!`;
+result =`hello World!`;
 console.log(result);
 
 console.log('Hello\nWorld!');
@@ -52,4 +52,8 @@ result = (10 * 10 > 50) && (5 * 5 < 50);
 console.log(result);
 
 result = (1 * 10 > 5);
+console.log(result);
+
+const num = "20"
+result = num - 5;
 console.log(result);
