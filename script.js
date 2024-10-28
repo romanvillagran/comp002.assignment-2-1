@@ -48,3 +48,5 @@ console.log("10 is greater than 5:", 10 > 5);
 result = "Apples" !== "Oranges";
 console.log(result);
 
+result = (10 * 10 > 50) && (5 * 5 < 50);
+console.log(result);
