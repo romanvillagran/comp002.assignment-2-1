@@ -31,3 +31,5 @@
 
 // 10. Write code that demonstrates an automatic type conversion as shown in Chapter 01.
 
+console.log('Hello world');
+
