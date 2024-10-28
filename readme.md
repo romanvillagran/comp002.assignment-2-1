@@ -1,1 +1,3 @@
-Author
+Author: Roman 
+
+Purpose: JavaScript assignment
