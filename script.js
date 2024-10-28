@@ -38,3 +38,5 @@ console.log(result);
 
 console.log('Hello\nWorld!');
 // the way you add a new sting in a console.log is by using \n.  //
+
+console.log(3 * 8 +2);
